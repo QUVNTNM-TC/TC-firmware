@@ -1,1 +1,0 @@
-../../../../arm-unknown-linux-androideabi/sysroot/lib/armv7-a/thumb/libstdc++.so.6.0.22-gdb.py
